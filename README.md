@@ -1,7 +1,7 @@
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Ebook sobre a vida dos gatos
+Ebook sobre A Vida dos Gatos
 
 ## 🤖 Tecnologias Utilizadas
 ChatGPT
